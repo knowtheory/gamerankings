@@ -1,0 +1,1 @@
+wget -i index_list.txt
